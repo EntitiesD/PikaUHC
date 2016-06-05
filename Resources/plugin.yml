@@ -1,0 +1,8 @@
+name: UHC
+author: Jake
+version: 1.0
+main: PikaUHC.Main
+commands:
+    uhc: Game
+    team: Team
+    config: Yup

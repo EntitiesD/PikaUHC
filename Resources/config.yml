@@ -1,0 +1,14 @@
+prefix: '&b[&aPIKA-UHC&b]'
+death-message: '&cYou have died'
+teams-enabled: true
+nether-enabled: false
+strength1-enabled: false
+strength2-enabled: false
+pvptime: 60
+pvp-enabled: '&apvp enabled'
+worldborder-size: 3000
+worldborder-shrink: '&cWorldborder is shrinking!'
+pearl-damage: false
+game-start: 'A new game of UHC has started! Players will be teleported in 10 minutes!'
+teamsize: 5
+friendly-fire: false
